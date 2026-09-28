@@ -3,11 +3,11 @@
 A cross-functional Power BI & SQL dashboard tracking order billing fallout, technical tickets, and network usage metrics.
 
 ## 📊 Interactive Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Images/dashboard_preview.png)
 
 ## 📁 Project Components
-* **SQL Pipeline Script:** [telecom_analytics_pipeline.sql](telecom_analytics_pipeline.sql) contains the complete data cleaning and aggregation script.
-* **Power BI Workbook:** Due to GitHub's file size limitations, you can download the full interactive `.pbix` workbook here: **[Download Power BI Workbook](https://drive.google.com/file/d/1h5MaT4Hal0ML4FYgtfFDrf0sOHb5dSZU/view?usp=sharing)**
+* **SQL Pipeline Script:** [telecom_analytics_pipeline.sql](SQL_Queries/telecom_analytics_pipeline.sql) contains the complete data cleaning and aggregation script.
+* **Power BI Workbook:** Due to GitHub's file size limitations, you can download the full interactive `.pbix` workbook here: **(https://drive.google.com/file/d/1h5MaT4Hal0ML4FYgtfFDrf0sOHb5dSZU/view?usp=sharing)**
 
 ## 🔍 Project Overview
 This enterprise-level Data Analytics project leverages a **500K subscriber dataset** across a **5-table star schema** to bridge the gap between financial billing pipelines, network activity logs, and technical customer support ticketing systems. 
